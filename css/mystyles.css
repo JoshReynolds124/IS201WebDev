@@ -1,0 +1,58 @@
+.contact-subtitle {
+    font-weight: normal;
+    font-color: blue;
+    
+}
+.contact-title {
+    font-weight: bold;
+}
+.contact-footer {
+    font-style: normal;
+}
+.italics {
+    font-style: italic;
+}
+.experiencebg {
+  position: relative;
+  margin-bottom: 3rem;
+  padding-top: calc(8rem + 57px);
+  padding-bottom: 8rem;
+  background: no-repeat center center;
+  background-color: gray;
+  background-size: contain;
+  background-attachment: scroll;
+}
+.heading{
+    color:#fff;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.heading-title {
+    font-size: 3rem;
+}
+.img-shrink {
+    float: inherit;
+    width: 200px;
+    height: auto;
+}
+.img-fit {
+    
+    width: 100%;
+    height: auto;
+}
+.iframe-container{
+    position:relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+.iframe-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.centertext{
+    text-align: center;
+}
